@@ -1,6 +1,6 @@
 
 
-```markdown
+
  Snake Game
 
 This is a classic Snake Game implemented using HTML5 Canvas and JavaScript. The objective of the game is to control the snake, eat the apples, and grow in length without hitting the walls or yourself.
