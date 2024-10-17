@@ -1,6 +1,4 @@
-Here is a `README.md` file for your Snake game project:
 
-### README.md
 
 ```markdown
 # Snake Game
